@@ -2,6 +2,7 @@
   "type": "module",
   "dependencies": {
     "@chainsafe/libp2p-yamux": "^6.0.2",
+    "@libp2p/protocol-adventure": "^0.0.1",
     "@libp2p/tcp": "^9.1.1",
     "@libp2p/tls": "^1.1.1",
     "cbor": "^9.0.2",
